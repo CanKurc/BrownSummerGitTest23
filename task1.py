@@ -1,6 +1,6 @@
 var = 0
 while True:
-    x = input("Enter the amount of hourss: \n")
+    x = input("Enter the amount of hours as an int: \n")
     if x.isnumeric():
         var = x
         break
